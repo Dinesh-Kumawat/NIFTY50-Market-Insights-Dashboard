@@ -15,8 +15,7 @@ An interactive **Power BI dashboard** that visualizes daily **NIFTY50 stock mark
 - Data Source
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](<img width="904" height="500" alt="3-nov-25" src="https://github.com/user-attachments/assets/9045a9f8-9b4b-4069-b55a-fbd346fd2da6" />
-)
+<img width="904" height="500" alt="3-nov-25" src="https://github.com/user-attachments/assets/ae729bc4-9717-4f6a-9f79-37e2d7d7e9e9" />
 
 ## 🔁 Data Refresh
 To update data:
