@@ -1,4 +1,4 @@
-# 🧠 NIFTY50 Market Insights Dashboard
+#  NIFTY50 Market Insights Dashboard
 
 An interactive **Power BI dashboard** that visualizes daily **NIFTY50 stock market** performance.
 
